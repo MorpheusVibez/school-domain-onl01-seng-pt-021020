@@ -3,4 +3,7 @@ class School
     @name = school_name
   end
 
+  def roster
+
+  end
 end
